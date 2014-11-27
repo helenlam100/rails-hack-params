@@ -7,6 +7,8 @@ You'll know you are done when it says that you are an admin user, like so:
 
 ![](show-screen-with-admin.png)
 
+![](Screen Shot.png)
+
 <div class="form-group">
         <label for="user_email">Email</label>
         <input class="form-control" id="user_email" name="user[email]" type="email">
